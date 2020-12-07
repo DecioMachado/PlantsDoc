@@ -1,8 +1,4 @@
 void handleRoot() {
-//  char temp[400];
-//  int sec = millis() / 1000;
-//  int min = sec / 60;
-//  int hr = min / 60;
   String json;
   StaticJsonDocument<200> doc;
   doc["name"] = "plantName";
