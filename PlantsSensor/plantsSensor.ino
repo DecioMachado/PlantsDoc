@@ -7,8 +7,8 @@
 #include <ArduinoOTA.h>
 
 #ifndef STASSID
-#define STASSID "MEO-Home 2.4GHz"
-#define STAPSK  "macaneta//90"
+#define STASSID ""
+#define STAPSK  ""
 #endif
 
 const char* ssid = STASSID;
